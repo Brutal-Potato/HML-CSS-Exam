@@ -86,3 +86,15 @@ nav a:hover {
 .mickey {
 	font-size: 35px;
 }
+/* section 3 */
+.logo_menu {
+	max-width: 960px;
+	margin: 0 auto;
+}
+.logos {
+	height: 100px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 0 10px;
+}
