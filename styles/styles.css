@@ -98,3 +98,35 @@ nav a:hover {
 	align-items: center;
 	padding: 0 10px;
 }
+/* section 4 */
+/* nebaigta, bet laikas spaudzia */
+.auction {
+	max-width: 960px;
+	margin: 0 auto;
+}
+.limited {
+	height: 100px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 0 10px;
+}
+.nft {
+	height: 250px;
+	display: flex;
+	justify-content: space-between;
+	align-items: stretch;
+	padding: 0 10px;
+}
+.purple {
+	margin: 5px;
+}
+.yellow {
+	margin: 5px;
+}
+.green {
+	margin: 5px;
+}
+.red {
+	margin: 5px;
+}
