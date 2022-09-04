@@ -53,13 +53,36 @@ nav a:hover {
 	font-size: 70px;
 }
 .sign {
-	border: 3px solid red;
+	border: 3px solid;
+	border-image: linear-gradient(to right, red, green) 1;
 	color: black;
 	background-color: white;
 	text-align: center;
 	font-size: 16px;
 	margin: 4px 2px;
 	cursor: pointer;
-	border-radius: 30px;
 	padding: 18px;
+}
+/* section 2 */
+/* strigau su isdestymu vienu po kitu teksto */
+.fancy {
+	max-width: 960px;
+	margin: 0 auto;
+}
+.early {
+	height: 50px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	align-content: flex-end;
+	padding: 0 10px;
+	background-image: linear-gradient(
+		to top right,
+		rgba(211, 28, 98, 0.747),
+		green
+	);
+	padding: 100px;
+}
+.mickey {
+	font-size: 35px;
 }
