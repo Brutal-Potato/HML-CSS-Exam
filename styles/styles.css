@@ -130,3 +130,7 @@ nav a:hover {
 .red {
 	margin: 5px;
 }
+/* section 5 */
+hr.solid {
+	border-top: 3px solid #bbb;
+}
